@@ -4,3 +4,5 @@ __pycache__
 tmp
 .ropeproject
 .pyc
+
+/YoloToTfRecords-master/Data
